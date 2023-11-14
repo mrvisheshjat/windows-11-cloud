@@ -8,7 +8,7 @@ Briefly describe what your project does and its main features. Highlight the pro
 
 ## Demo
 
-[Project demo](https://youtu.be/kB1jbk8bWPo)
+(https://youtu.be/kB1jbk8bWPo)
 
 ## Table of Contents
 
